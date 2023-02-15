@@ -1,0 +1,14 @@
+= ys-scala-poi
+
+Scala API for work with Apache POI
+
+== Version 1.0.0
+Base operations with one sheet:
+
+* read sheet from a file
+* get a cell
+* get cells in a column
+* get cells in a row
+* sum in a column
+* sum in a row
+* foldLeft in a column

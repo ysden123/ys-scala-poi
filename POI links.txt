@@ -1,0 +1,3 @@
+Read/Write in Excel Sheet Using Apache POI With Scala https://dzone.com/articles/readwrite-in-excel-using-apache-poi-with-scala
+Working with Microsoft Excel in Java https://www.baeldung.com/java-microsoft-excel
+Reading and Writing Data to Excel File in Java using Apache POI https://www.geeksforgeeks.org/reading-writing-data-excel-file-using-apache-poi/
