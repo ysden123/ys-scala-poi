@@ -2,6 +2,10 @@
 
 Scala API for work with Apache POI
 
+== Version 1.1.0
+Row and column numerations starting from 1.
+Support for usage a column index as string.
+
 == Version 1.0.0
 Base operations with one sheet:
 
